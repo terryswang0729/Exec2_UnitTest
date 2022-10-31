@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaiwanStock.Utilities", "TaiwanStock.Utilities\TaiwanStock.Utilities.csproj", "{76052F26-7D29-4062-B676-D416696E3FAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{62AECE1C-6093-4499-A274-821315350B16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76052F26-7D29-4062-B676-D416696E3FAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76052F26-7D29-4062-B676-D416696E3FAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76052F26-7D29-4062-B676-D416696E3FAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76052F26-7D29-4062-B676-D416696E3FAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62AECE1C-6093-4499-A274-821315350B16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62AECE1C-6093-4499-A274-821315350B16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62AECE1C-6093-4499-A274-821315350B16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62AECE1C-6093-4499-A274-821315350B16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49BCBF6D-EDFF-413F-8B05-E939619FF617}
+	EndGlobalSection
+EndGlobal
